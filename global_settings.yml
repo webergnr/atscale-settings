@@ -1,6 +1,6 @@
 object_type: global_settings
 overrides:
-    "xmla.auth.token.enabled": "true"
+    "xmla.auth.token.enabled": "false"
     "xmla.discover.properties.daxdialect": "tabular"
     "aggregates.create.allowExactDistinctCountMeasures.enabled": "true"
     "aggregates.prediction.checkForNonAdditiveMeasuresAndConstraints.enabled": "false"
