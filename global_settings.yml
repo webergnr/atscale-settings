@@ -9,3 +9,4 @@ overrides:
     "query.factless.ignoreIncidentalFilter": "false"
     "connection.pool.user.idleConnectionDuration": "6 hours"
     "connection.pool.idleConnectionDuration": "6 hours"
+    "xmla.cube.lastDataUpdate.enabled": "true"
